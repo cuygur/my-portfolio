@@ -1,5 +1,6 @@
 import { css } from "@emotion/core"
 import lineSvg from "../../../static/assets/line.svg"
+import myimg from "../../images/The-great-wave.jpg"
 
 const styles = css`
   .e404.layout-wrapper .layout-inner {
@@ -21,9 +22,13 @@ const styles = css`
     background-color: #000;
   }
   .home.layout-wrapper .layout-inner {
-    background: #0e0f11;
+    background: url(${myimg});
+     {
+      /*background: #0e0f11;
+    
     background: #0e0f11 url(${lineSvg}) center center fixed;
-    background-size: contain;
+    background-size: contain;*/
+    }
   }
   .home.layout-wrapper h1,
   .home.layout-wrapper h2 {
