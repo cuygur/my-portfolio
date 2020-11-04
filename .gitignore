@@ -3,3 +3,10 @@ node_modules
 .cache
 .vscode
 .env*
+
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
