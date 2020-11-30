@@ -1,6 +1,7 @@
 import { css } from "@emotion/core"
 import lineSvg from "../../../static/assets/line.svg"
 import mentor from "../../images/mentor.jpg"
+import hand from "../../images/one-hand-2.jpg"
 
 const styles = css`
   .e404.layout-wrapper .layout-inner {
@@ -22,7 +23,7 @@ const styles = css`
     background-color: #000;
   }
   .home.layout-wrapper .layout-inner {
-    background: url(${mentor}) center center;
+    background: url(${mentor}) center;
      {
       /*background: #0e0f11;
     
@@ -61,7 +62,7 @@ const styles = css`
   }
   .aboutme .btn-contact-color,
   .e404 .btn-contact-color {
-    color: #000;
+    color: #fff;
   }
 `
 
