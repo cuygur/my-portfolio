@@ -52,7 +52,7 @@ module.exports = {
         },
         // Color for menu background
         shapeColor: {
-          link: { color: "#CCFF66", hover: "#4520A1" },
+          link: { color: "#2557A5", hover: "#A6941C" },
           shape1: {
             color: `#13547a`,
             opacity: `0.8`,
