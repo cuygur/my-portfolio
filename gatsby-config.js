@@ -6,7 +6,7 @@ module.exports = {
         basePath: ``,
         path: `src/`,
         imagesPath: `src/images/`,
-        iconFile: `src/images/icon.png`,
+        iconFile: `src/images/cu-2.png`,
         siteTitle: `Front-End developer Cihan Uygur`,
         siteUrl: `https://cihanuygur.netlify.app/`,
         siteName: `Cihan Uygur developer portfolio | @kriptoleo`,
