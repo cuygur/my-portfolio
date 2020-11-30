@@ -34,7 +34,7 @@ module.exports = {
           gitHub: `cuygur`,
           stackOverflow: `14736546/cihan-uygur`,
           linkedIn: `in/cihanuygur`,
-          resumeInPdf: `/Cihan-Uygur-Resume.pdf`, // url or local link
+          resumeInPdf: `/Cihan-Uygur.pdf`, // url or local link
         },
         homePage: {
           availableToHire: true,
