@@ -1,13 +1,14 @@
 ---
 title: "It's on Us"
 company: "Re:Coded"
-logo: ../images/companies/smaaviltguiden/smaaviltguiden_omslag.jpg
+logo: ../images/companies/recoded/reCoded.png
 jobTitle: "Junior Front-End Developer"
 skills:
   [
     { title: "HTML 5", image: ../images/skills/html5.png },
     { title: "CSS 3", image: ../images/skills/css3.png },
     { title: "Git", image: ../images/skills/git.png },
+    { title: "Bootstrap", image: ../images/skills/bootstrap.png },
     { title: "React", image: ../images/skills/react.png },
   ]
 images:
@@ -20,35 +21,33 @@ images:
       layout: "1",
       files:
         [
-          { image: ../images/companies/common/codescreen2.jpg },
-          { image: ../images/companies/common/codescreen1.jpg },
-          { image: ../images/companies/ornforlag.png },
-        ],
-    },
-    {
-      title: "Movie Heaven",
-      description: "Movie database project using MovieDB API, where it shows movies, their casts, ratings, trailers, related movies, genres.",
-      layout: "2",
-      files:
-        [
-          { image: ../images/companies/ornforlag/mobile/home.jpg },
-          { image: ../images/companies/ornforlag/mobile/menu.jpg },
-          { image: ../images/companies/ornforlag/mobile/more-content.jpg },
+          { image: ../images/companies/recoded/onUs/on-us-4.jpg },
+          { image: ../images/companies/recoded/onUs/on-us-0.jpg },
+          { image: ../images/companies/recoded/onUs/on-us-5.jpg },
         ],
     },
     {
       title: "Travel Bucket",
-      description: "Board project where users can add travel wishes with pictures",
+      description: "Board project where users can add travel wishes with additional data",
       layout: "3",
       files:
         [
-          { image: ../images/companies/ornforlag/audio-record.jpg },
-          { image: ../images/companies/ornforlag/video-record.jpg },
-          { image: ../images/companies/ornforlag/profile-view.jpg },
-          { image: ../images/companies/ornforlag/followers.jpg },
-          { image: ../images/companies/ornforlag/new-message.jpg },
+          { image: ../images/companies/recoded/travelBucket/travel-1.jpg },
+          { image: ../images/companies/recoded/travelBucket/travel-2.jpg },
+          { image: ../images/companies/recoded/travelBucket/travel-3.jpg },
         ],
       caption: "New Message",
+    },
+    {
+      title: "Movie Heaven",
+      description: "Movie database project using MovieDB API, where it shows movies, their casts, ratings, trailers, related movies, genres.",
+      layout: "5",
+      files:
+        [
+          { image: ../images/companies/recoded/movieHeaven/movie-1.jpg },
+          { image: ../images/companies/recoded/movieHeaven/movie-2.jpg },
+          { image: ../images/companies/recoded/movieHeaven/movie-3.jpg },
+        ],
     },
   ]
 dateFrom: "2020-07-01"
