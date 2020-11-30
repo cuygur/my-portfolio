@@ -1,8 +1,8 @@
 ---
-title: ""
-company: "Orn forlag"
+title: "It's on Us"
+company: "Re:Coded"
 logo: ../images/companies/smaaviltguiden/smaaviltguiden_omslag.jpg
-jobTitle: "Web developer"
+jobTitle: "Junior Front-End Developer"
 skills:
   [
     { title: "HTML 5", image: ../images/skills/html5.png },
