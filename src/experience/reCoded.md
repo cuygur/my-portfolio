@@ -10,6 +10,12 @@ skills:
     { title: "Git", image: ../images/skills/git.png },
     { title: "Bootstrap", image: ../images/skills/bootstrap.png },
     { title: "React", image: ../images/skills/react.png },
+    { title: "Firebase", image: ../images/skills/firebase.png },
+    { title: "Figma", image: ../images/skills/figma.png },
+    { title: "Ant Design", image: ../images/skills/ant.png },
+    { title: "Wordpress", image: ../images/skills/wordpress.png },
+    { title: "i18Next", image: ../images/skills/i18next.png },
+    { title: "Jest", image: ../images/skills/jest.png },
   ]
 images:
   [

@@ -8,6 +8,8 @@ skills:
     { title: "HTML 5", image: ../images/skills/html5.png },
     { title: "CSS 3", image: ../images/skills/css3.png },
     { title: "Git", image: ../images/skills/git.png },
+    { title: "JavaScript", image: ../images/skills/js.png },
+    { title: "Python", image: ../images/skills/python.png },
   ]
 images:
   [
@@ -17,7 +19,7 @@ images:
         "Udacity Python Project for Intro to Programming Nanodegree. An interactive game in Python using modules,
         loops, conditionals, and functions
         ",
-      layout: "1",
+      layout: "3",
       files:
         [
           { image: ../images/companies/udacity/soulmate/step2.jpg },
@@ -28,12 +30,12 @@ images:
     {
       title: "Pixel Art maker",
       description: "Udacity JavaScript Project for Intro to Programming Nanodegree where you can make art with pixel painting",
-      layout: "3",
+      layout: "1",
       files:
         [
           { image: ../images/companies/udacity/pixel/art1.jpg },
-          { image: ../images/companies/udacity/soulmate/art2.jpg },
-          { image: ../images/companies/udacity/soulmate/art3.jpg },
+          { image: ../images/companies/udacity/pixel/art2.jpg },
+          { image: ../images/companies/udacity/pixel/art3.jpg },
         ],
       caption: "New Message",
     },
