@@ -12,7 +12,7 @@ module.exports = {
         siteName: `Cihan Uygur developer portfolio | @kriptoleo`,
         siteShortName: `Cihan Uygur CV`,
         siteDescription: `My personal website`,
-        siteKeywords: `Developer, Front-end developer, React developer`,
+        siteKeywords: `Developer, Front-end`,
         useMozJpeg: true,
         menuLinks: [
           // title = Link text
@@ -27,14 +27,14 @@ module.exports = {
           { name: `skills`, title: `Skills`, color: `#d52d43`, link: `` },
           { name: `aboutMe`, title: `About Me`, color: `#fff`, link: `` },
         ],
-        email: `cuygurdev@gmail.com`,
+        email: `cuygur@outlook.com`,
         social: {
           // Usernames
           twitter: `kriptoleo`,
           gitHub: `cuygur`,
           stackOverflow: `/`,
           linkedIn: `in/cihanuygur`,
-          resumeInPdf: `/Cihan-Uygur-Resume.pdf`, // url or local link
+          resumeInPdf: `/CV-20.pdf`, // url or local link
         },
         homePage: {
           availableToHire: true,

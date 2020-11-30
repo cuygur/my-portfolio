@@ -1,5 +1,5 @@
 ---
-title: "Front-End"
+title: "It's on Us"
 company: "Re:Coded"
 logo: ../images/companies/recoded/reCoded.png
 jobTitle: "Junior Front-End Developer"
@@ -36,6 +36,7 @@ images:
           { image: ../images/companies/recoded/travelBucket/travel-2.jpg },
           { image: ../images/companies/recoded/travelBucket/travel-3.jpg },
         ],
+      caption: "New Message",
     },
     {
       title: "Movie Heaven",
@@ -50,10 +51,10 @@ images:
     },
   ]
 dateFrom: "2020-07-01"
-dateTo: "2020-12-30"
+dateTo: "2020-12-01"
 ---
 
 - Used technologies: React, JavaScript, Google Firebase, Ant Design. Bootstrap, MDBootstrap, Wordpress, i18n, Mailchimp, HTML 5, CSS3
-- Designed capstone project with Figma
+- Designed a project with Figma
 - Worked with a team of developers
 - https://feed-the-needy.netlify.app
