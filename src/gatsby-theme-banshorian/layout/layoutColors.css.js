@@ -1,6 +1,5 @@
 import { css } from "@emotion/core"
 import lineSvg from "../../../static/assets/line.svg"
-import help from "../../images/one-hand-2.jpg"
 import mentor from "../../images/mentor.jpg"
 
 const styles = css`

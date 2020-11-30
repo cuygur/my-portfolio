@@ -7,12 +7,12 @@ module.exports = {
         path: `src/`,
         imagesPath: `src/images/`,
         iconFile: `src/images/cu-2.png`,
-        siteTitle: `Front-End developer Cihan Uygur`,
+        siteTitle: `Developer Cihan Uygur`,
         siteUrl: `https://cihanuygur.netlify.app/`,
-        siteName: `Cihan Uygur developer portfolio | @kriptoleo`,
-        siteShortName: `Cihan Uygur CV`,
-        siteDescription: `My personal website`,
-        siteKeywords: `Developer, Front-end, React`,
+        siteName: `Cihan Uygur`,
+        siteShortName: `CU`,
+        siteDescription: `My personal website about my work experience as developer`,
+        siteKeywords: `Developer, Front-end, React, Cihan Uygur`,
         useMozJpeg: true,
         menuLinks: [
           // title = Link text
@@ -46,19 +46,19 @@ module.exports = {
             `I build projects with React and JavaScript`,
             `Always interested in learning new skills`,
             `One of my values is the <strong>ability to find solutions<strong>`,
-            `I also do design <span style='color: #0e3e1e;'>using Figma</span>`,
+            `I also do design using Figma`,
             `I'm an ex-ship captain ⚓`,
           ],
         },
         // Color for menu background
         shapeColor: {
-          link: { color: "#434343", hover: "#ffff" },
+          link: { color: "#CCFF66", hover: "#4520A1" },
           shape1: {
-            color: `#13547A`,
+            color: `#13547a`,
             opacity: `0.8`,
           },
           shape2: {
-            color: `#80D0C7`,
+            color: `#80d0c7`,
             opacity: `0.3`,
           },
           shape3: {
@@ -81,7 +81,7 @@ module.exports = {
           anonymize_ip: true,
           cookie_expires: 0,
           send_page_view: true,
-          cookie_name: `gatsby-starter-banshorian.vercel.app`,
+          cookie_name: `cihanuygur.com`,
         },
         // This object is used for configuration specific to this plugin
         pluginConfig: {
