@@ -1,6 +1,6 @@
 import { css } from "@emotion/core"
 import lineSvg from "../../../static/assets/line.svg"
-import myimg from "../../images/The-great-wave.jpg"
+import help from "../../images/one-hand-2.jpg"
 
 const styles = css`
   .e404.layout-wrapper .layout-inner {
@@ -22,7 +22,7 @@ const styles = css`
     background-color: #000;
   }
   .home.layout-wrapper .layout-inner {
-    background: url(${myimg});
+    background: url(${help}) center;
      {
       /*background: #0e0f11;
     
