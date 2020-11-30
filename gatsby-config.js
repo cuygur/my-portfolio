@@ -42,12 +42,12 @@ module.exports = {
           h1Text: `I can help you!`,
           h2Text: `I'm Cihan Uygur, Front-End developer based in Istanbul`,
           typewriter: [
-            `Creative, coder, out-of-box thinker 😎`,
-            `I'm an ex-ship captain`,
-            `I always interested in learning new skills 🤓`,
-            `I think one of my values is the <strong>ability to find solutions<strong>`,
-            `In my non-coding hours, I like to run and cook`,
+            `Creative coder, out-of-box thinker 😎`,
+            `I build projects with React and JavaScript`,
+            `Always interested in learning new skills 🤓`,
+            `One of my values is the <strong>ability to find solutions<strong>`,
             `I also do design and UX work <span style='color: #27ae60;'>using Figma.com</span>`,
+            `I'm an ex-ship captain`,
           ],
         },
         // Color for menu background
