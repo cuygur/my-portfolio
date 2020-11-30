@@ -46,7 +46,7 @@ module.exports = {
             `I build projects with React and JavaScript`,
             `Always interested in learning new skills`,
             `One of my values is the <strong>ability to find solutions<strong>`,
-            `I also do design in <span style:"color:#A6602D;"> Figma</span>`,
+            `I also do design in Figma`,
             `I'm an ex-ship captain ⚓`,
           ],
         },
