@@ -1,6 +1,7 @@
 import { css } from "@emotion/core"
 import lineSvg from "../../../static/assets/line.svg"
-import help from "../../images/one-hand-2.jpg"
+import mentor from "../../images/mentor.jpg"
+import hand from "../../images/one-hand-2.jpg"
 
 const styles = css`
   .e404.layout-wrapper .layout-inner {
@@ -22,7 +23,7 @@ const styles = css`
     background-color: #000;
   }
   .home.layout-wrapper .layout-inner {
-    background: url(${help}) center;
+    background: url(${mentor}) center;
      {
       /*background: #0e0f11;
     
@@ -42,9 +43,9 @@ const styles = css`
     background-size: cover;
   }
   .experience.layout-wrapper .layout-inner {
-    background: #3a3d98;
+    background: #000;
     background: url(${lineSvg}) center center fixed,
-      linear-gradient(45deg, #6f22b9, #3a3d98);
+      linear-gradient(180deg, #2456a6, #a6941c);
     background-size: cover;
   }
   .home .hamburgercolr::before,
@@ -61,7 +62,7 @@ const styles = css`
   }
   .aboutme .btn-contact-color,
   .e404 .btn-contact-color {
-    color: #000;
+    color: #fff;
   }
 `
 

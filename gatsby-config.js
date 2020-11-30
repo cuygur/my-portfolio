@@ -6,13 +6,13 @@ module.exports = {
         basePath: ``,
         path: `src/`,
         imagesPath: `src/images/`,
-        iconFile: `src/images/icon.png`,
-        siteTitle: `Front-End developer Cihan Uygur`,
+        iconFile: `src/images/cu-2.png`,
+        siteTitle: `Developer Cihan Uygur`,
         siteUrl: `https://cihanuygur.netlify.app/`,
-        siteName: `Cihan Uygur developer portfolio | @kriptoleo`,
-        siteShortName: `Cihan Uygur CV`,
-        siteDescription: `My personal website`,
-        siteKeywords: `Developer, Front-end, React`,
+        siteName: `Cihan Uygur`,
+        siteShortName: `CU`,
+        siteDescription: `My personal website about my work experience as developer`,
+        siteKeywords: `Developer, Front-end, React, Cihan Uygur`,
         useMozJpeg: true,
         menuLinks: [
           // title = Link text
@@ -21,7 +21,7 @@ module.exports = {
           {
             name: `experience`,
             title: `Experience`,
-            color: `#3a3d98`,
+            color: `#2456A6`,
             link: ``,
           },
           { name: `skills`, title: `Skills`, color: `#d52d43`, link: `` },
@@ -32,37 +32,37 @@ module.exports = {
           // Usernames
           twitter: `kriptoleo`,
           gitHub: `cuygur`,
-          stackOverflow: `/`,
+          stackOverflow: `14736546/cihan-uygur`,
           linkedIn: `in/cihanuygur`,
           resumeInPdf: `/Cihan-Uygur-Resume.pdf`, // url or local link
         },
         homePage: {
           availableToHire: true,
-          dotColors: ["#0e3e1e", "#6CC551"],
-          h1Text: `Hey there, I will help you! I'm Cihan Uygur`,
-          h2Text: `I'm a creative Front-End developer. We can create beautiful and engaging web apps together!`,
+          dotColors: ["#A8A62C", "#FFFF00"],
+          h1Text: `Hey there, I can help you in the development! I'm Cihan Uygur`,
+          h2Text: `Creative Front-End developer based in Istanbul. We can create beautiful and engaging web apps together!`,
           typewriter: [
             `Creative coder, out-of-box thinker 😎`,
             `I build projects with React and JavaScript`,
             `Always interested in learning new skills`,
             `One of my values is the <strong>ability to find solutions<strong>`,
-            `I also do design <span style='color: #0e3e1e;'>using Figma</span>`,
+            `I also do design in <span style:"color:#A6602D;"> Figma</span>`,
             `I'm an ex-ship captain ⚓`,
           ],
         },
         // Color for menu background
         shapeColor: {
-          link: { color: "#434343", hover: "#ffff" },
+          link: { color: "#A6941C", hover: "#2557A5" },
           shape1: {
-            color: `#13547A`,
-            opacity: `0.8`,
+            color: `#A6602D`,
+            opacity: `0.7`,
           },
           shape2: {
-            color: `#80D0C7`,
-            opacity: `0.3`,
+            color: `#F2D71D`,
+            opacity: `0.7`,
           },
           shape3: {
-            color: `#fff`,
+            color: `#2456A6`,
             opacity: `0.7`,
           },
         },
@@ -81,7 +81,7 @@ module.exports = {
           anonymize_ip: true,
           cookie_expires: 0,
           send_page_view: true,
-          cookie_name: `gatsby-starter-banshorian.vercel.app`,
+          cookie_name: `cihanuygur.com`,
         },
         // This object is used for configuration specific to this plugin
         pluginConfig: {
