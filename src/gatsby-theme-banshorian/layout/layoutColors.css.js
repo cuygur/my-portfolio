@@ -43,9 +43,9 @@ const styles = css`
     background-size: cover;
   }
   .experience.layout-wrapper .layout-inner {
-    background: #3a3d98;
+    background: #000;
     background: url(${lineSvg}) center center fixed,
-      linear-gradient(45deg, #6f22b9, #3a3d98);
+      linear-gradient(180deg, #2456a6, #a6941c);
     background-size: cover;
   }
   .home .hamburgercolr::before,

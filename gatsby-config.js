@@ -21,7 +21,7 @@ module.exports = {
           {
             name: `experience`,
             title: `Experience`,
-            color: `#3a3d98`,
+            color: `#2456A6`,
             link: ``,
           },
           { name: `skills`, title: `Skills`, color: `#d52d43`, link: `` },
@@ -32,21 +32,21 @@ module.exports = {
           // Usernames
           twitter: `kriptoleo`,
           gitHub: `cuygur`,
-          stackOverflow: `/14736546/cihan-uygur`,
+          stackOverflow: `14736546/cihan-uygur`,
           linkedIn: `in/cihanuygur`,
           resumeInPdf: `/Cihan-Uygur-Resume.pdf`, // url or local link
         },
         homePage: {
           availableToHire: true,
           dotColors: ["#A8A62C", "#FFFF00"],
-          h1Text: `Hey there, I will help you! I'm Cihan Uygur`,
-          h2Text: `I'm a creative Front-End developer. We can create beautiful and engaging web apps together!`,
+          h1Text: `Hey there, I can help you in the development! I'm Cihan Uygur`,
+          h2Text: `Creative Front-End developer based in Istanbul. We can create beautiful and engaging web apps together!`,
           typewriter: [
             `Creative coder, out-of-box thinker 😎`,
             `I build projects with React and JavaScript`,
             `Always interested in learning new skills`,
             `One of my values is the <strong>ability to find solutions<strong>`,
-            `I also do design using Figma`,
+            `I also do design in <span style:"color:#A6602D;"> Figma</span>`,
             `I'm an ex-ship captain ⚓`,
           ],
         },
