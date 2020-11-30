@@ -32,13 +32,13 @@ module.exports = {
           // Usernames
           twitter: `kriptoleo`,
           gitHub: `cuygur`,
-          stackOverflow: `/`,
+          stackOverflow: `/14736546/cihan-uygur`,
           linkedIn: `in/cihanuygur`,
           resumeInPdf: `/Cihan-Uygur-Resume.pdf`, // url or local link
         },
         homePage: {
           availableToHire: true,
-          dotColors: ["#0e3e1e", "#6CC551"],
+          dotColors: ["#A8A62C", "#FFFF00"],
           h1Text: `Hey there, I will help you! I'm Cihan Uygur`,
           h2Text: `I'm a creative Front-End developer. We can create beautiful and engaging web apps together!`,
           typewriter: [
@@ -52,17 +52,17 @@ module.exports = {
         },
         // Color for menu background
         shapeColor: {
-          link: { color: "#2557A5", hover: "#A6941C" },
+          link: { color: "#A6941C", hover: "#2557A5" },
           shape1: {
-            color: `#13547a`,
-            opacity: `0.8`,
+            color: `#A6602D`,
+            opacity: `0.7`,
           },
           shape2: {
-            color: `#80d0c7`,
-            opacity: `0.3`,
+            color: `#F2D71D`,
+            opacity: `0.7`,
           },
           shape3: {
-            color: `#fff`,
+            color: `#2456A6`,
             opacity: `0.7`,
           },
         },
