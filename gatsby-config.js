@@ -39,15 +39,15 @@ module.exports = {
         homePage: {
           availableToHire: true,
           dotColors: ["#0e3e1e", "#6CC551"],
-          h1Text: `Hey, I can help you! I'm Cihan Uygur`,
-          h2Text: `I'm Front-End developer. We can create beautiful and engaging web apps together!`,
+          h1Text: `Hey there, I will help you! I'm Cihan Uygur`,
+          h2Text: `I'm a creative Front-End developer. We can create beautiful and engaging web apps together!`,
           typewriter: [
             `Creative coder, out-of-box thinker 😎`,
             `I build projects with React and JavaScript`,
             `Always interested in learning new skills`,
             `One of my values is the <strong>ability to find solutions<strong>`,
             `I also do design <span style='color: #0e3e1e;'>using Figma</span>`,
-            `I'm an ex-ship captain `,
+            `I'm an ex-ship captain ⚓`,
           ],
         },
         // Color for menu background
