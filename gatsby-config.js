@@ -39,7 +39,7 @@ module.exports = {
         homePage: {
           availableToHire: true,
           dotColors: ["#A8A62C", "#FFFF00"],
-          h1Text: `Hey there, I can help you in the development! I'm Cihan Uygur`,
+          h1Text: `Hey there, I can help you on the development! I'm Cihan Uygur`,
           h2Text: `Creative Front-End developer based in Istanbul. We can create beautiful and engaging web apps together!`,
           typewriter: [
             `Creative coder, out-of-box thinker 😎`,
