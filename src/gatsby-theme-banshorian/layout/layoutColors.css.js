@@ -1,6 +1,9 @@
 import { css } from "@emotion/core"
 import lineSvg from "../../../static/assets/line.svg"
 import mentor from "../../images/mentor-org-sharpen.jpeg"
+import mentor2 from "../../images/mentor1366.jpg"
+import mentor3 from "../../images/mentor1440.jpg"
+import mentor4 from "../../images/mentor430.jpg"
 
 const styles = css`
   .e404.layout-wrapper .layout-inner {
@@ -28,6 +31,15 @@ const styles = css`
     
     background: #0e0f11 url(${lineSvg}) center center fixed;
     background-size: contain;*/
+    }
+    @media (max-width: 1200px) {
+      background: url(${mentor2}) center;
+    }
+    @media (max-width: 1441px) {
+      background: url(${mentor3}) center;
+    }
+    @media (max-width: 450px) {
+      background: url(${mentor4}) center;
     }
   }
   .home.layout-wrapper h1,
