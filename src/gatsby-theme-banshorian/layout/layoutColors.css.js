@@ -1,7 +1,6 @@
 import { css } from "@emotion/core"
 import lineSvg from "../../../static/assets/line.svg"
-import mentor from "../../images/mentor.jpg"
-import hand from "../../images/one-hand-2.jpg"
+import mentor from "../../images/mentor-comp.jpg"
 
 const styles = css`
   .e404.layout-wrapper .layout-inner {
