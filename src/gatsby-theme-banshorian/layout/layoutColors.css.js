@@ -1,6 +1,6 @@
 import { css } from "@emotion/core"
 import lineSvg from "../../../static/assets/line.svg"
-import mentor from "../../images/mentor-org-sharpen.jpeg"
+import mentor1 from "../../images/mentor-small.jpeg"
 import mentor2 from "../../images/mentor1366.jpg"
 import mentor3 from "../../images/mentor1440.jpg"
 import mentor4 from "../../images/mentor430.jpg"
@@ -25,7 +25,7 @@ const styles = css`
     background-color: #000;
   }
   .home.layout-wrapper .layout-inner {
-    background: url(${mentor}) center;
+    background: url(${mentor1}) center;
      {
       /*background: #0e0f11;
     
