@@ -4,6 +4,7 @@ import mentor1 from "../../images/mentor-small.jpeg"
 import mentor2 from "../../images/mentor1366.jpg"
 import mentor3 from "../../images/mentor1440.jpg"
 import mentor4 from "../../images/mentor430.jpg"
+import mentorIpad from "../../images/mentor-ipad.jpg"
 
 const styles = css`
   .e404.layout-wrapper .layout-inner {
@@ -25,12 +26,16 @@ const styles = css`
     background-color: #000;
   }
   .home.layout-wrapper .layout-inner {
-    background: url(${mentor1}) center;
+    background: url(${mentor1});
      {
       /*background: #0e0f11;
     
     background: #0e0f11 url(${lineSvg}) center center fixed;
     background-size: contain;*/
+    }
+    @media (max-width: 1366px) {
+      background: url(${mentorIpad}) center;
+    }
     }
     @media (max-width: 1200px) {
       background: url(${mentor2}) center;
