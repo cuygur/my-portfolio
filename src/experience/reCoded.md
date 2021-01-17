@@ -74,6 +74,6 @@ dateTo: "2020-12-01"
 - Used technologies: React, JavaScript, Google Firebase, Ant Design. Bootstrap, MDBootstrap, Wordpress, i18n, Mailchimp, HTML 5, CSS3
 - Designed a project with Figma
 - Worked with a team of developers
-- https://feed-the-needy.netlify.app
+- https://itsonus.netlify.app/
 - https://cuygur.github.io/travel-bucket/
 - https://cuygur.github.io/oop-movie/index.html
