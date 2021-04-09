@@ -27,14 +27,14 @@ module.exports = {
           { name: `skills`, title: `Skills`, color: `#d52d43`, link: `` },
           { name: `aboutMe`, title: `About Me`, color: `#fff`, link: `` },
         ],
-        email: `cuygurdev@gmail.com`,
+        email: ``,
         social: {
           // Usernames
           twitter: `kriptoleo`,
           gitHub: `cuygur`,
           stackOverflow: `14736546/cihan-uygur`,
           linkedIn: `in/cihanuygur`,
-          resumeInPdf: `/Cihan-Uygur.pdf`, // url or local link
+          resumeInPdf: `/Cihan-Uygur`, // url or local link .pdf
         },
         homePage: {
           availableToHire: true,
