@@ -37,7 +37,7 @@ module.exports = {
           resumeInPdf: `/Cihan-Uygur`, // url or local link .pdf
         },
         homePage: {
-          availableToHire: true,
+          availableToHire: false,
           dotColors: ["#A8A62C", "#FFFF00"],
           h1Text: `Hey there, I can help you on the development! I'm Cihan Uygur`,
           h2Text: `Creative Front-End developer based in Istanbul. We can create beautiful and engaging web apps together!`,
